@@ -4,10 +4,10 @@
     "slug": "Transactions_App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "../assets/pictures/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "../assets/pictures/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "../assets/pictures/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "../assets/pictures/favicon.png"
     }
   }
 }
